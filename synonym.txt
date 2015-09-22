@@ -19,3 +19,4 @@ note=>노트
 bluetooth=>블루투스
 sony=>소니
 ikea=>이케아
+리모콘=>리모컨
